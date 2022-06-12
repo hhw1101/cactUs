@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "username": "firstperson",
+        "first_name": "first",
+        "last_name": "last",
+        "organisation": "Cactus",
+        "email": "name@example.com",
+        "location": "UK",
+        "Phone": "123456789",
+        "Birthday": "01/01/2001",
+        "CV": "assets/CV.pdf",
+        "profile_pic": "assets/profile_pic.png"
+
+    }
+
+
+]
